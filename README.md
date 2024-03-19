@@ -9,3 +9,6 @@ Este es un cambio para fetch
 Quiero generar un conflicto aqui
 
 Esta es otra prueba
+
+git fetch 1
+git fetch 2
